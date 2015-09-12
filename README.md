@@ -14,7 +14,7 @@ namespace AppBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
-use HendrichA\TagPassBundle\TagPass;
+use HendrichA\TagPassLibrary\TagPass;
 
 class AppBundle extends Bundle
 {
@@ -87,5 +87,5 @@ This repository contains functional tests for the compiler passes, that can be
 execute by phpunit. Because they require certain Symfony classes to be present,
 *phpunit* should be called from your symfony application root.
 ```bash
-$ phpunit -c app/phpunit.xml vendor/hendricha/tagpass-bundle/HendrichA/TagPassBundle/Tests
+$ phpunit -c app/phpunit.xml vendor/hendricha/tagpass-bundle/HendrichA/TagPassLibrary/Tests
 ```

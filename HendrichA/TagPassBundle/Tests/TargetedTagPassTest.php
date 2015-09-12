@@ -1,7 +1,7 @@
 <?php
-namespace HendrichA\TagPassBundle\Tests;
+namespace HendrichA\TagPassLibrary\Tests;
 
-use HendrichA\TagPassBundle\TargetedTagPass;
+use HendrichA\TagPassLibrary\TargetedTagPass;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Reference;
 

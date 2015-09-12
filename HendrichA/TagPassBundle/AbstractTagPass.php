@@ -1,5 +1,5 @@
 <?php
-namespace HendrichA\TagPassBundle;
+namespace HendrichA\TagPassLibrary;
 
 use Symfony\Component\DependencyInjection\Reference;
 

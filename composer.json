@@ -1,5 +1,5 @@
 {
-    "name": "hendricha/tagpass-bundle",
+    "name": "hendricha/tagpass",
     "description": "Simple symfony compiler passes for adding tagged services to other services",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "HendrichA\\TagPassBundle": ""
+            "HendrichA\\TagPassLibrary": ""
         }
     }
 }
