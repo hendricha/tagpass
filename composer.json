@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "HendrichA\\TagPassBundle": "src/"
+            "HendrichA\\TagPassBundle": ""
         }
     }
 }
